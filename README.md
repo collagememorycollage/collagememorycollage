@@ -1,16 +1,18 @@
-## Hi there 👋
+# Привет 👋 Добро пожаловать на мою страницу!
 
-<!--
-**collagememorycollage/collagememorycollage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я Саша, студент магистратуры **Data Science / ML Engineer @ HSE (НИУ ВШЭ)**.  
 
-Here are some ideas to get you started:
+🎓 Изучаю современные методы анализа данных и машинного обучения  
+💻 Параллельно работаю с Linux-инфраструктурой: администрирование серверов, автоматизация, мониторинг и CI/CD  
+🌱 Интересуюсь Data Engineering, распределёнными системами и построением дата-пайплайнов  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Навыки и технологии  
+**OS & Infra:** Linux, Bash, Ansible, Docker, Kubernetes  
+**DevOps:** CI/CD (GitHub Actions, GitLab CI), мониторинг (Prometheus, Grafana)  
+**Data Engineering:** Airflow, Spark, Kafka  
+**Data Science:** Python (pandas, scikit-learn)    
+**Databases:** PostgreSQL, ClickHouse  
+
+### 📫 Контакты  
+- Telegram: [@albernso](https://t.me/albernso)  
+- Email: collagememory@yandex.ru  
