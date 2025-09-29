@@ -8,7 +8,7 @@
 
 ### 🔧 Навыки и технологии  
 **OS & Infra:** Linux, Bash, Ansible, Docker, Kubernetes  
-**DevOps:** CI/CD (GitHub Actions, GitLab CI), мониторинг (Prometheus, Grafana)  
+**DevOps:** CI/CD (GitHub Actions, GitLab CI), мониторинг (Zabbix, Grafana)  
 **Data Engineering:** Airflow, Spark, Kafka  
 **Data Science:** Python (pandas, scikit-learn)    
 **Databases:** PostgreSQL, ClickHouse  
