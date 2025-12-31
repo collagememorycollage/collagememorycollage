@@ -1,17 +1,6 @@
 # Hi 👋
 
-I'm Sasha, Data Engeneer.  
-
-🎓 Изучаю современные методы анализа данных и машинного обучения  
-💻 Параллельно работаю с Linux-инфраструктурой: администрирование серверов, автоматизация, мониторинг и CI/CD  
-🌱 Интересуюсь Data Engineering, распределёнными системами и построением дата-пайплайнов  
-
-### 🔧 Навыки и технологии  
-**OS & Infra:** Linux, Bash, Ansible, Docker, Kubernetes  
-**DevOps:** CI/CD (GitHub Actions, GitLab CI), мониторинг (Zabbix, Grafana)  
-**Data Engineering:** Airflow, Spark, Kafka  
-**Data Science:** Python (pandas, scikit-learn)    
-**Databases:** PostgreSQL, ClickHouse  
+I'm Sasha, Data Engeneer.   
 
 ### 📫 Contacts   
 - Telegram: [@albernso](https://t.me/albernso)  
